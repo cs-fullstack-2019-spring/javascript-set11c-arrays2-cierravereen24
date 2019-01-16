@@ -1,3 +1,5 @@
+### Great work. Remember to add comments!
+
 # JavaScript_Set11c_Arrays2
 
 Array Reference
